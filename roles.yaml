@@ -1,0 +1,10 @@
+anonym: perms, overview, signin, signup
+member: |
+  @anonym
+  !signin
+  !signup
+  logout
+  reviewTodo
+  createTodo
+  updateTodo
+  deleteTodo
